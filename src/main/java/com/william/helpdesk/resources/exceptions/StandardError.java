@@ -1,4 +1,4 @@
-package com.william.helpdesk.services.exceptions;
+package com.william.helpdesk.resources.exceptions;
 
 import java.io.Serializable;
 
