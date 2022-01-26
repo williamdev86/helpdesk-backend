@@ -55,7 +55,7 @@ public class DBService {
 
 		Cliente cli5 = new Cliente(null, " Maicon Cruz","708.908.590-27", "maicon@gmail.com", "123");
 		
-		Chamado c1 = new Chamado(null, Prioridade.MEDIA, Status.ANDAMENTO, "Chamado 01","Primeiro chamado", tec2, cli3);
+		Chamado c1 = new Chamado(null, Prioridade.MEDIA, Status.ANDAMENTO, "Chamado 01","Primeiro chamado", tec1, cli3);
 		
 		Chamado c2 = new Chamado(null, Prioridade.MEDIA, Status.ANDAMENTO, "Chamado 02","Segundo chamado", tec4, cli2);
 		
